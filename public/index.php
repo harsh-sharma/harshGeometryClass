@@ -9,4 +9,4 @@
 				<p><span>Harsh Geometry Class</span> also provide online <span>video</span> classes with <span>whiteboard</span>. You can also <span>leave message</span> for the teacher if you have some queries and can also do <span>online chat</span> with our teachers.</p>
 			</section>
  <?php require_once("includes/footer.php");?>
- <?php echo "harsh"; ?>
+ <?php echo "harsh sharma"; ?>
